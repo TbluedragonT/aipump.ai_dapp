@@ -18148,10 +18148,10 @@ function ho(t, e) {
       U(13),
       L()(),
       F(14, "div", 10)(15, "a", 11),
-      U(16, "Privacy Policy"),
+      U(16, ""),
       L(),
       F(17, "a", 12),
-      U(18, "Terms of Service"),
+      U(18, ""),
       L()()()()),
     t & 2)
   ) {
