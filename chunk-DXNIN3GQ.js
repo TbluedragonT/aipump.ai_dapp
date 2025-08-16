@@ -1862,13 +1862,14 @@ var xe = class t {
     consts: [
       [
         "class",
-        "px-7.5 py-10 container mx-auto flex -lg:flex-col gap-3",
+        "hidden px-7.5 py-10 container mx-auto flex gap-3",
         4,
         "transloco",
         "translocoPrefix",
       ],
       [
         1,
+        "hidden",
         "px-7.5",
         "py-10",
         "container",
